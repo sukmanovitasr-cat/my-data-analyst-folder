@@ -1,2 +1,10 @@
-# my-data-analyst-folder
-This is my data analysis portofolio based on the projects I am working on recently as a beginner, feel free to visit and/or give me some feedback! ^^
+<h1 align="center">Hi 👋, I'm sukma!</h1>
+<h3 align="center">A passionate data analysis learner from Indonesia</h3>
+
+- 🌱 I’m currently learning on **data science and data analysis**
+
+- 📫 How to reach me **sukmanovitasr@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
